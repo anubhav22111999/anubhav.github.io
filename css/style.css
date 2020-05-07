@@ -6953,7 +6953,7 @@ button.bg-dark:focus {
   .mb-sm-4,
   .my-sm-4 {
     margin-bottom: 1.5rem !important; }
-  .ml-sm-4
+  .ml-sm-4,
   .mx-sm-4 {
     margin-left: 1.5rem !important; }
   .m-sm-5 {
@@ -8717,7 +8717,7 @@ h1, h2, h3, h4, h5,
     -ms-border-radius: 50%;
     border-radius: 50%; }
     .resume-wrap .icon span {
-      color: white;
+      color: #fff;
       font-size: 28px; }
   .resume-wrap .text {
     width: calc(100% - 50px); }
