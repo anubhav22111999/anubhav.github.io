@@ -4327,7 +4327,7 @@ input[type="button"].btn-block {
   overflow: hidden;
   font-size: 0.75rem;
   background-color: #e9ecef;
-  border-radius: 0.25rem; }
+  border-radius: 0.20rem; }
 
 .progress-bar {
   display: -webkit-box;
@@ -8830,8 +8830,8 @@ h1, h2, h3, h4, h5,
     position: absolute;
     top: -2px;
     right: 0;
-    width: 34px;
-    height: 34px;
+    width: 30px;
+    height: 30px;
     content: '';
     background: #3e64ff;
     -webkit-border-radius: 2px;
